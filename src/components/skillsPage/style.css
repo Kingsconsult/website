@@ -1,0 +1,53 @@
+/* * {
+  outline: 2px solid red;
+} */
+
+.skills-background {
+  background-color: #fff;
+  /* height: 80vh; */
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+
+}
+.title {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skills-title {
+  color: #000;
+  text-decoration: underline;
+}
+.skills {
+  width: 70%;
+  color: #000;
+  display: flex;
+  justify-content: start;
+}
+
+.skills-content {
+  margin: 80px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  font: 20px/1.9em "librebaskerville-regular", serif;
+  align-content: center;
+}
+
+.framework-title {
+  text-decoration: underline;
+}
+.image-gallery {
+    width: 50vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.even-spacing {
+    margin-bottom: 30px;
+    margin-top: 20px;
+}

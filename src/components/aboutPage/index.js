@@ -1,7 +1,7 @@
 import React from "react";
-import linkedin from "../../assets/images/kings.jpg";
+import kings from "../../assets/images/kings.jpg";
 
-import "./about.css";
+import "./style.css";
 
 function AboutPage() {
   return (
@@ -9,7 +9,7 @@ function AboutPage() {
       <div className="info">
         <div className="picture">
           <div className="pic">
-            <img src={linkedin} alt="My pic" className="kings" />
+            <img src={kings} alt="My pic" className="kings" />
           </div>
         </div>
         <div className="text">
