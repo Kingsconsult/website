@@ -11,7 +11,6 @@ function Navbar() {
         let y = document.getElementsByClassName('link');
         x[0].classList.toggle('change');
         y[0].classList.toggle('responsive')
-        // console.log(document.location.pathname + document.location.hash)
     }
     return (
         <div className = "nav-container">
