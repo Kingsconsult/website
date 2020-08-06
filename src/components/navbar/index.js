@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
-import {NavLink} from 'react-router-dom';
-// import { NavHashLink as NavLink } from 'react-router-hash-link';
+// import {NavLink} from 'react-router-dom';
+import { NavHashLink as NavLink } from 'react-router-hash-link';
 import './style.css';
 import {MenuList} from './data';
 
@@ -18,7 +18,7 @@ function Navbar() {
             {MenuList.map((ele,index)=>(
                 <NavLink
                  key = {index}
-                 to = {ele.link}
+                 smooth to = {ele.link}
                  exact activeClassName="active"
                 //  location = {{pathname: document.location.pathname + document.location.hash}}
             >{ele.name}</NavLink>

@@ -1,0 +1,65 @@
+.git-profile{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+}
+
+.profile-image{
+    width: 75px;
+    height: 75px;
+}
+
+.info{
+    margin:7px;
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    /* transition: 0.3s; */
+    width: 30%;
+    height: 150px;
+    border-radius: 5px;
+    /* background-color: black; */
+    margin-bottom: 10px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+    color:#000;
+  }
+
+  .container a{
+      text-decoration: none;
+      color:#000;
+  }
+
+
+
+  @media(max-width:900px){
+      .card {
+          width: 40%;
+      }
+  }
+
+  @media(max-width:500px){
+    .card {
+        width: 100%;
+    }
+}
+
+.repo-header{
+    text-align: center;
+    color:#fff;
+}
