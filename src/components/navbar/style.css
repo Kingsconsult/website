@@ -51,7 +51,7 @@
 .bar3 {
   width: 35px;
   height: 7px;
-  background-color: green;
+  background-color: #008000;
   margin: 6px 0;
   transition: 0.4s;
 }
