@@ -10,10 +10,10 @@ import "./style.css";
 
 function LandingPage() {
   return (
-    <div className="backgroundImg">
+    <div className="background-img">
       <div className="hero">
-        <h1 className="heroName">I'm Kingsley Okpara</h1>
-        <p className="heroText">
+        <h1 className="hero-name">I'm Kingsley Okpara</h1>
+        <p className="hero-text">
           I am Kingsley Okpara, a Python Fullstack Web developer, I also have
           extensive knowledge and experience with PHP and JavaScript while
           working on applications developed with PHP and JavaScript frameworks.
@@ -30,7 +30,7 @@ function LandingPage() {
           DRY principle, the atomic design, etc.
         </p>
         <div className="social">
-          <ul className="socialLinks">
+          <ul className="social-links">
             <li>
               <a href="https://twitter.com/KingsOkpara">
                 <img

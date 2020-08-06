@@ -1,13 +1,14 @@
 import React from "react";
 import "./App.css";
-import LandingPage from "./components/landingPage"
+import LandingPage from "./components/landingPage";
+import AboutPage from "./components/aboutPage";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-          {/* <h1>Hello kings</h1> */}
-        <LandingPage /> 
+        <LandingPage />
+        <AboutPage />
       </header>
     </div>
   );
