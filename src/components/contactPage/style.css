@@ -14,9 +14,39 @@ outline:  2px solid red;
   display: flex;
   align-items: center;
   max-width: 100%;
+  color: #fff;
+  justify-content: center;
+  flex-direction: column;
   /* height: auto; */
 }
 
-.contact-page {
+.contact-info {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-self: center;
+}
 
+.contact-title {
+  text-decoration: underline;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+
+.contact-data {
+  margin-bottom: 20px;
+}
+
+.summit-button {
+  width: 150px;
+  align-self: center;
+  margin-top: 10px;
+}
+
+.social {
+  margin-top: 100px;
 }
