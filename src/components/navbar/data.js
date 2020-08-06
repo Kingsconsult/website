@@ -1,26 +1,26 @@
 export const MenuList = [
   {
     name: "Home",
-    link: "/",
+    link: "/#home",
   },
   {
     name: "About",
-    link: "/about",
+    link: "/#about",
   },
   {
     name: "Skills",
-    link: "/skills",
+    link: "/#skills",
   },
   {
     name: "Works",
-    link: "/works",
+    link: "/#works",
   },
-  {
-    name: "Resume",
-    link: "/resume",
-  },
+//   {
+//     name: "Resume",
+//     link: "/resume",
+//   },
   {
     name: "Contact",
-    link: "/contact-us",
+    link: "/#contact-us",
   },
 ];
