@@ -24,7 +24,6 @@ function AboutPage() {
 							<br></br>
 							An easy going person who understands the individual differences of
 							Human nature and deals with everybody according to each personality.
-              
 						</p>
 					</div>
 					<div className="second">
