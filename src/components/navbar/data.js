@@ -12,13 +12,13 @@ export const MenuList = [
     link: "/#skills",
   },
   {
+    name: "Articles",
+    link: "/#articles",
+  },
+  {
     name: "Works",
     link: "/#works",
   },
-//   {
-//     name: "Resume",
-//     link: "/resume",
-//   },
   {
     name: "Contact",
     link: "/#contact-us",
