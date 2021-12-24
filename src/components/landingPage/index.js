@@ -14,16 +14,15 @@ function LandingPage() {
       <div className="hero">
         <h1 className="hero-name">I'm Kingsley Okpara</h1>
         <p className="hero-text">
-          I am Kingsley Okpara, a Python Fullstack Web developer, I also have
-          extensive knowledge and experience with PHP and JavaScript while
-          working on applications developed with PHP and JavaScript frameworks.
+          I am Kingsley Okpara, a PHP Fullstack Web developer, I also have
+          extensive knowledge and experience with Python, JavaScript and Golang while
+          working on applications developed with Python, JavaScript frameworks and Go.
           I am fascinated with computer technologies and programming is my
-          passion, I always have the dream of developing the technologies I used
-          and can make the world a better place. A fast learner and a team
+          passion. A fast learner and a team
           player, who picks languages, frameworks, and technologies in a little
           time and worked comfortably with them. I have worked on applications
-          in Django (Python), Flask (Python), React (JavaScript), VanillaJs
-          (JavaScript), CakePHP (PHP), Laravel (PHP), and comfortable with
+          inLaravel (PHP), Django (Python), Odoo (Python), Flask (Python), React (JavaScript), VanillaJs
+          (JavaScript), CakePHP (PHP),  and comfortable with
           technologies like Docker, Heroku, etc. I write reusable codes, also
           writing test to make sure the codes never breaks in production and
           follows the programming principles like the SOLID Design principles,
