@@ -37,7 +37,7 @@ function AboutPage() {
 							</p>
 						</div>
 						<div>
-							<a href="https://drive.google.com/file/d/1KWzQXZU1c0_T7j0ti5MFPaGNkm9dWhwm/view?usp=sharing">
+							<a href="https://drive.google.com/file/d/1KWzQXZU1c0_T7j0ti5MFPaGNkm9dWhwm/view?usp=sharing"  download rel="noopener noreferrer" target="_blank">
 								<button className="download-button">Download Resume</button>
 							</a>
 						</div>
