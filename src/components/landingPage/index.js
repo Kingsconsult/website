@@ -12,7 +12,7 @@ function LandingPage() {
   return (
     <div className="background-img">
       <div className="hero">
-        <h1 className="hero-name">I'm Kingsley Okpara</h1>
+        <h1 className="hero-name">Kingsley Okpara</h1>
         <p className="hero-text">
           I am Kingsley Okpara, a PHP Fullstack Web developer, I also have
           extensive knowledge and experience with Python, JavaScript and Golang while
